@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Alex%20Alves%20Amorim&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Dev%20de%20Favela&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">👨‍💻 Alex Alves Amorim</h1>
 
@@ -68,38 +68,18 @@ Desktop PDF Reader desenvolvido com **Electron + React + TypeScript**.
 
 </div>
 
----
+## 📊 Estatísticas
 
-## 📊 GitHub Analytics
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexAlvesAmorim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAlvesAmorim&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" />
+</div>
 
-<p align="center">
+## 🔥 Sequência de Contribuições
 
-<img 
-  width="49%" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=AlexAlvesAmorim&theme=tokyonight&hide_border=true" 
-/>
-
-<img 
-  width="49%" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAlvesAmorim&layout=compact&theme=tokyonight&hide_border=true" 
-/>
-
-</p>
-
----
-
-## 🧠 Estatísticas Gerais
-
-<p align="center">
-
-<img 
-  width="60%" 
-  src="https://github-readme-stats.vercel.app/api?username=AlexAlvesAmorim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-/>
-
-</p>
-
----
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=AlexAlvesAmorim&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
 
 ## 🌐 Contato
 
