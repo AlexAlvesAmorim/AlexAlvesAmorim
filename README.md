@@ -74,13 +74,6 @@ Leitor de PDF desktop desenvolvido inicialmente com React + CRA e posteriormente
 
 </div>
 
-## 📊 Estatísticas
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexAlvesAmorim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAlvesAmorim&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" />
-</div>
-
 ## 🔥 Sequência de Contribuições
 
 <div align="center">
