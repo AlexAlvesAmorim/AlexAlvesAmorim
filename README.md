@@ -68,9 +68,9 @@ Leitor de PDF desktop desenvolvido inicialmente com React + CRA e posteriormente
 |----------|------------|-------------|------|
 | **LoginLayout** | Layout moderno de autenticação | HTML, CSS | [🔗 Repositório](https://github.com/AlexAlvesAmorim/LoginLayout) |
 | **GroceryList** | Lista de mercado simples e prática | CSS | [🔗 Repositório](https://github.com/AlexAlvesAmorim/GroceryList) |
-| **Fabuloja** | Projeto principal Fabuloja | JavaScript | [🔗 Repositório](https://github.com/AlexAlvesAmorim/Fabuloja) |
-| **ProjetoFabuloja-fork** | Versão expandida do Fabuloja | JavaScript | [🔗 Repositório](https://github.com/AlexAlvesAmorim/ProjetoFabuloja-fork) |
-| **react-ts** | Base moderna React + TypeScript | React, TypeScript | [🔗 Repositório](https://github.com/AlexAlvesAmorim/react-ts) |
+| **E-commerce Fabulosa** | Projeto principal Fabuloja | JavaScript | [🔗 Repositório](https://github.com/AlexAlvesAmorim/Fabuloja) |
+| **E-commerce Fabuloja** | Versão expandida do Fabuloja | JavaScript | [🔗 Repositório](https://github.com/AlexAlvesAmorim/ProjetoFabuloja-fork) |
+| **AlfaPDF** | Base moderna React + TypeScript | React, TypeScript | [🔗 Repositório](https://github.com/AlexAlvesAmorim/react-ts) |
 
 </div>
 
