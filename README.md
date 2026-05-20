@@ -26,7 +26,7 @@ Atualmente desenvolvendo projetos próprios com foco em UI/UX moderna, escalabil
 
 ### ALFA PDF Reader
 
-Desktop PDF Reader desenvolvido com Electron + React + TypeScript.
+Desktop PDF Reader desenvolvido com **Electron + React + TypeScript**.
 
 **Features:**
 - 📄 Renderização de PDFs
@@ -41,13 +41,13 @@ Desktop PDF Reader desenvolvido com Electron + React + TypeScript.
 ## 📊 Estatísticas
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexAlvesAmorim&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAlvesAmorim&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexAlvesAmorim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAlvesAmorim&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
 </div>
 
 ---
 
-## 🔥 Sequência de contribuições
+## 🔥 Sequência de Contribuições
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=AlexAlvesAmorim&theme=tokyonight&hide_border=true" />
@@ -61,7 +61,9 @@ Desktop PDF Reader desenvolvido com Electron + React + TypeScript.
 <a href="https://www.linkedin.com/in/alex-a-amorim/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/AlexAlvesAmorim">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<a href="https://www.instagram.com/eudevalex/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+-->
 </div>
