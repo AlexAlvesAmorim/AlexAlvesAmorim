@@ -85,7 +85,7 @@ Leitor de PDF desktop desenvolvido inicialmente com React + CRA e posteriormente
 <div align="center">
 
 <a href="https://www.linkedin.com/in/alex-a-amorim/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/eudevalex/">
