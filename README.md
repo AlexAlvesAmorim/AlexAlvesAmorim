@@ -62,6 +62,12 @@ Leitor de PDF desktop desenvolvido inicialmente com React + CRA e posteriormente
 - 🖥️ Aplicação Desktop
 
 
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexAlvesAmorim&show_icons=true&theme=radical" />
+</div>
+
 <div align="center">
 
 | Projeto | Descrição | Tecnologias | Link |
