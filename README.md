@@ -1,18 +1,14 @@
 # 👨‍💻 Alex Alves Amorim
-
 <div align="center">
-
 Front-End Developer • React • TypeScript • Electron
-
 </div>
 
 ---
 
 ## 🚀 Sobre mim
 
-Desenvolvedor Front-End focado em aplicações modernas utilizando React, TypeScript e Electron.
-
-Experiência com suporte N3, arquitetura de interfaces, componentização, performance e desenvolvimento de aplicações desktop e web.
+Desenvolvedor Front-End focado em aplicações modernas utilizando React, TypeScript e Electron.  
+Experiência com suporte N3, arquitetura de interfaces, componentização, performance e desenvolvimento de aplicações desktop e web.  
 
 Atualmente desenvolvendo projetos próprios com foco em UI/UX moderna, escalabilidade e experiência profissional de produto.
 
@@ -21,9 +17,7 @@ Atualmente desenvolvendo projetos próprios com foco em UI/UX moderna, escalabil
 ## 🛠️ Tecnologias
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=react,ts,js,electron,vite,tailwind,nodejs,git,github,vscode" />
-
 </div>
 
 ---
@@ -34,7 +28,7 @@ Atualmente desenvolvendo projetos próprios com foco em UI/UX moderna, escalabil
 
 Desktop PDF Reader desenvolvido com Electron + React + TypeScript.
 
-### Features:
+**Features:**
 - 📄 Renderização de PDFs
 - 🔍 Sistema de Zoom
 - 📚 Scroll contínuo vertical
@@ -47,11 +41,8 @@ Desktop PDF Reader desenvolvido com Electron + React + TypeScript.
 ## 📊 Estatísticas
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexAlvesAmorim&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAlvesAmorim&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -59,9 +50,7 @@ Desktop PDF Reader desenvolvido com Electron + React + TypeScript.
 ## 🔥 Sequência de contribuições
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true" />
-
+<img src="https://streak-stats.demolab.com?user=AlexAlvesAmorim&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -69,13 +58,10 @@ Desktop PDF Reader desenvolvido com Electron + React + TypeScript.
 ## 🌐 Contato
 
 <div align="center">
-
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/alex-a-amorim/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="SEU_GITHUB">
+<a href="https://github.com/AlexAlvesAmorim">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </div>
