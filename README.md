@@ -22,19 +22,29 @@ Atualmente desenvolvendo projetos próprios com foco em UI/UX moderna, escalabil
 
 ---
 
-## ⭐ Projeto Destaque
+## ⭐ Projetos em Destaque
 
-### ALFA PDF Reader
-
+### 🖥️ ALFA PDF Reader
 Desktop PDF Reader desenvolvido com **Electron + React + TypeScript**.
 
-**Features:**
-- 📄 Renderização de PDFs
-- 🔍 Sistema de Zoom
-- 📚 Scroll contínuo vertical
-- ⚡ Hooks customizados
-- 🎨 Interface moderna dark
-- 🖥️ Desktop App com Electron
+**Tecnologias:** Electron, React, TypeScript, Vite  
+**Features:** Renderização de PDF, Zoom, Scroll contínuo, Dark Mode
+
+---
+
+### 📱 Outros Projetos
+
+<div align="center">
+
+| Projeto              | Descrição                                      | Tecnologias      | Link |
+|----------------------|------------------------------------------------|------------------|------|
+| **LoginLayout**      | Criação de Layout de Login moderno             | HTML, CSS        | [Ver Repositório](https://github.com/AlexAlvesAmorim/LoginLayout) |
+| **GroceryList**      | Lista de mercado simples e prática             | CSS              | [Ver Repositório](https://github.com/AlexAlvesAmorim/GroceryList) |
+| **Fabuloja**         | Projeto principal Fabuloja                     | JavaScript       | [Ver Repositório](https://github.com/AlexAlvesAmorim/Fabuloja) |
+| **ProjetoFabuloja-fork** | Versão com novas funcionalidades do Fabuloja | JavaScript       | [Ver Repositório](https://github.com/AlexAlvesAmorim/ProjetoFabuloja-fork) |
+| **react-ts**         | Projeto base com React + TypeScript            | React, TypeScript| [Ver Repositório](https://github.com/AlexAlvesAmorim/react-ts) |
+
+</div>
 
 ---
 
@@ -61,8 +71,7 @@ Desktop PDF Reader desenvolvido com **Electron + React + TypeScript**.
 <a href="https://www.linkedin.com/in/alex-a-amorim/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://www.instagram.com/eudevalex/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://github.com/AlexAlvesAmorim">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
