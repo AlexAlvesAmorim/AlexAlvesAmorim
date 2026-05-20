@@ -34,27 +34,33 @@ Atualmente desenvolvendo projetos próprios com foco em UI/UX moderna, escalabil
 
 ## ⭐ Projetos em Destaque
 
-### 🖥️ ALFA PDF Reader
+## 🖥️ ALFA PDF Reader
 
-Desktop PDF Reader desenvolvido com **Electron + React + TypeScript**.
+Leitor de PDF desktop desenvolvido inicialmente com React + CRA e posteriormente evoluído para Electron + TypeScript.
 
-### 🚀 Tecnologias
+### 🔹 Primeira Versão
+- React
+- Create React App
+- React PDF
+- PDF.js
+- CSS3
+
+### 🔹 Versão Atual
 - Electron
 - React
 - TypeScript
 - Vite
+- Hooks customizados
+- Arquitetura modular
 
 ### ✨ Features
 - 📄 Renderização de PDFs
 - 🔍 Sistema de Zoom
 - 📚 Scroll contínuo vertical
 - 🌙 Dark Mode
-- ⚡ Hooks customizados
+- ⚡ Navegação otimizada
 - 🖥️ Aplicação Desktop
 
----
-
-## 📱 Outros Projetos
 
 <div align="center">
 
