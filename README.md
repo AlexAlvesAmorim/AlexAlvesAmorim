@@ -41,8 +41,8 @@ Desktop PDF Reader desenvolvido com **Electron + React + TypeScript**.
 ## 📊 Estatísticas
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexAlvesAmorim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAlvesAmorim&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlexAlvesAmorim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlexAlvesAmorim&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -65,5 +65,4 @@ Desktop PDF Reader desenvolvido com **Electron + React + TypeScript**.
 <a href="https://www.instagram.com/eudevalex/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
--->
 </div>
