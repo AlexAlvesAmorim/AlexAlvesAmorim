@@ -1,72 +1,61 @@
-# 💫 Alex Alves Amorim
+# 👨‍💻 Alex Alves Amorim
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Alex%20Alves%20Amorim&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
-<h1 align="center">👨‍💻 Alex Alves Amorim</h1>
-
-<p align="center">
-  Front-End Developer • React • TypeScript • Electron
+<p align="left">
+  <strong>Front-End Developer</strong> • React • TypeScript • Electron<br>
+  Construindo aplicações web e desktop com foco em arquitetura, performance e experiência do usuário.
 </p>
 
-<p align="center">
-  Desenvolvedor apaixonado por criar aplicações web e desktop com foco em <strong>arquitetura escalável</strong>, <strong>performance</strong> e <strong>experiência do usuário</strong>.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlexAlvesAmorim&color=blue" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AlexAlvesAmorim&color=blue" alt="profile views" />
 </p>
 
 ---
 
-# 🎯 Destaques
+## 🎯 Core Competencies
 
-- Desenvolvimento de aplicações **Desktop** com Electron
-- Especialista em **React + TypeScript**
-- Arquitetura baseada em componentes e hooks customizados
-- Renderização avançada de PDFs (PDF.js)
-- UI/UX moderna e interfaces intuitivas
-- Experiência em Suporte Técnico N3
-
----
-
-# 💻 Tech Stack
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+<table>
+  <tr>
+    <td>✅ Electron + React + TypeScript</td>
+    <td>✅ Arquitetura de componentes & hooks customizados</td>
+  </tr>
+  <tr>
+    <td>✅ PDF.js e renderização de documentos</td>
+    <td>✅ UI/UX moderna com TailwindCSS</td>
+  </tr>
+  <tr>
+    <td>✅ Aplicações desktop (cross-platform)</td>
+    <td>✅ Background em suporte técnico N3</td>
+  </tr>
+</table>
 
 ---
 
-# 🚀 Projeto Principal
+## 🛠️ Tech Stack
 
-## 🖥️ **ALFA PDF Reader**
-
-Aplicação desktop para leitura de PDFs desenvolvida com **Electron, React e TypeScript**.
-
-**Principais funcionalidades:**
-- Renderização otimizada com PDF.js
-- Zoom dinâmico, scroll contínuo e navegação fluida
-- Dark Mode
-- Arquitetura modular e hooks customizados
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+## 📌 Projeto em destaque
 
-![](https://github-readme-stats.shion.dev/api?username=AlexAlvesAmorim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=AlexAlvesAmorim&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AlexAlvesAmorim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**🖥️ ALFA PDF Reader** – Aplicação desktop para leitura de PDFs  
+`Electron` • `React` • `TypeScript` • `PDF.js` • `Dark Mode` • `Scroll contínuo`
+
+🔗 [Repositório](https://github.com/AlexAlvesAmorim/alfa-pdf-reader) (caso queira linkar)
+
+---
+
+## 🌐 Conecte-se
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-a-amorim)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eudevalex)
 
 ---
 
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eudevalex)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-a-amorim)
-
----
+📫 **Open to work** – Front-End, React ou Electron Developer
