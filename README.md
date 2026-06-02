@@ -13,7 +13,7 @@
 
 ## 🎯 Core Competencies
 
-<table>
+<tr>
   <tr>
     <td>✅ Electron + React + TypeScript</td>
     <td>✅ Arquitetura de componentes & hooks customizados</td>
@@ -44,10 +44,18 @@
 
 ## 📌 Projeto em destaque
 
-**🖥️ ALFA PDF Reader** – Aplicação desktop para leitura de PDFs  
-`Electron` • `React` • `TypeScript` • `PDF.js` • `Dark Mode` • `Scroll contínuo`
+**🖥️ ALFA PDF Reader** – Leitor de PDF desktop construído com Electron + React + TypeScript.
 
-🔗 [Repositório](https://github.com/AlexAlvesAmorim/alfa-pdf-reader) (caso queira linkar)
+**🎯 Features principais:**
+
+- Rolagem vertical contínua  
+- Múltiplas abas simultâneas  
+- Controles de zoom dinâmico  
+- Impressão nativa (com suporte a página específica ou documento inteiro)  
+- Detecção de impressoras do sistema  
+
+🔗 **Download / Release:**  
+[github.com/AlexAlvesAmorim/AlfaPDF/releases/tag/pdfreader](https://github.com/AlexAlvesAmorim/AlfaPDF/releases/tag/pdfreader)
 
 ---
 
