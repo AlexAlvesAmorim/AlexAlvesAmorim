@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Dev%20de%20Favela&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Alex%20Alves%20Amorim&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">👨‍💻 Alex Alves Amorim</h1>
 
@@ -7,86 +7,156 @@
 </p>
 
 <p align="center">
+  Construindo aplicações web e desktop com foco em arquitetura, performance e experiência do usuário.
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlexAlvesAmorim&color=blue" />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre Mim
 
-Desenvolvedor Front-End focado em aplicações modernas utilizando React, TypeScript e Electron.
+Desenvolvedor Front-End com experiência em suporte técnico N3 e desenvolvimento de aplicações utilizando React, TypeScript e Electron.
 
-Experiência com suporte N3, arquitetura de interfaces, componentização, performance e desenvolvimento de aplicações desktop e web.
+Atualmente construo projetos próprios focados em arquitetura escalável, componentização, experiência do usuário e desenvolvimento de aplicações desktop.
 
-Atualmente desenvolvendo projetos próprios com foco em UI/UX moderna, escalabilidade e experiência profissional de produto.
+Meu principal projeto é o **ALFA PDF Reader**, uma aplicação desktop criada com Electron, React e TypeScript, desenvolvida para aprofundar conhecimentos em engenharia de software e construção de produtos reais.
 
 ---
 
-## 🛠️ Tecnologias
+# 🎯 Destaques
+
+✅ Desenvolvimento de aplicações Desktop com Electron
+
+✅ React + TypeScript
+
+✅ Arquitetura baseada em componentes
+
+✅ Hooks customizados
+
+✅ PDF.js e Renderização de Documentos
+
+✅ UI/UX Moderna
+
+✅ Experiência em Suporte Técnico N3
+
+---
+
+# 🛠️ Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,electron,vite,tailwind,nodejs,git,github,vscode,figma,linux" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,electron,vite,nodejs,tailwind,git,github,vscode,figma,linux" />
 
 </div>
 
 ---
 
-## ⭐ Projetos em Destaque
+# 🚀 Projeto Principal
 
 ## 🖥️ ALFA PDF Reader
 
-Leitor de PDF desktop desenvolvido inicialmente com React + CRA e posteriormente evoluído para Electron + TypeScript.
+Aplicação desktop para leitura de PDFs desenvolvida com Electron, React e TypeScript.
 
-### 🔹 Primeira Versão
-- React
-- Create React App
-- React PDF
-- PDF.js
-- CSS3
+### Tecnologias
 
-### 🔹 Versão Atual
 - Electron
 - React
 - TypeScript
 - Vite
-- Hooks customizados
-- Arquitetura modular
+- PDF.js
+- React PDF
 
-### ✨ Features
+### Principais Implementações
+
 - 📄 Renderização de PDFs
-- 🔍 Sistema de Zoom
-- 📚 Scroll contínuo vertical
+- 🔍 Sistema de Zoom Dinâmico
+- 📚 Scroll Contínuo Vertical
+- ⚡ Navegação Otimizada
 - 🌙 Dark Mode
-- ⚡ Navegação otimizada
+- 🧩 Hooks Customizados
+- 🏗️ Arquitetura Modular
 - 🖥️ Aplicação Desktop
 
+### Objetivo
 
-## 📊 Estatísticas
+Projeto criado para aprofundar conhecimentos em arquitetura Front-End, aplicações desktop, gerenciamento de estado e experiência do usuário.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexAlvesAmorim&show_icons=true&theme=radical" />
-</div>
+---
 
-<div align="center">
+# 📂 Projetos Selecionados
 
-| Projeto | Descrição | Tecnologias | Link |
-|----------|------------|-------------|------|
-| **LoginLayout** | Layout moderno de autenticação | HTML, CSS | [🔗 Repositório](https://github.com/AlexAlvesAmorim/LoginLayout) |
-| **GroceryList** | Lista de mercado simples e prática | CSS | [🔗 Repositório](https://github.com/AlexAlvesAmorim/GroceryList) |
-| **E-commerce Fabulosa** | Projeto principal Fabuloja | JavaScript | [🔗 Repositório](https://github.com/AlexAlvesAmorim/Fabuloja) |
-| **E-commerce Fabuloja** | Versão expandida do Fabuloja | JavaScript | [🔗 Repositório](https://github.com/AlexAlvesAmorim/ProjetoFabuloja-fork) |
-| **AlfaPDF** | Base moderna React + TypeScript | React, TypeScript | [🔗 Repositório](https://github.com/AlexAlvesAmorim/react-ts) |
+| Projeto | Descrição | Stack |
+|----------|------------|--------|
+| **ALFA PDF Reader** | Aplicação Desktop para leitura de PDFs | Electron, React, TypeScript |
+| **Fabuloja** | E-commerce desenvolvido em JavaScript | JavaScript |
+| **Login Layout** | Interface moderna de autenticação | HTML, CSS |
+| **Grocery List** | Aplicação simples para gerenciamento de listas | CSS |
 
-</div>
+---
 
-## 🔥 Sequência de Contribuições
+# 📊 Estatísticas GitHub
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=AlexAlvesAmorim&theme=tokyonight&hide_border=true" alt="Streak" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexAlvesAmorim&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAlvesAmorim&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-## 🌐 Contato
+---
+
+# 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AlexAlvesAmorim&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlexAlvesAmorim&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Minha Jornada
+
+Suporte Técnico → Front-End → Aplicações Desktop
+
+Hoje concentro meus estudos em:
+
+- React
+- TypeScript
+- Electron
+- Arquitetura Front-End
+- Desenvolvimento de Produtos
+
+---
+
+# 🎯 Objetivo Profissional
+
+Buscando oportunidades como:
+
+- Front-End Developer
+- React Developer
+- Electron Developer
+- Software Developer
+
+Com interesse em participar da construção de produtos escaláveis e experiências digitais de alta qualidade.
+
+---
+
+# 🌐 Contato
 
 <div align="center">
 
@@ -94,15 +164,16 @@ Leitor de PDF desktop desenvolvido inicialmente com React + CRA e posteriormente
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/eudevalex/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="mailto:alex.a.amorim@outlook.com">
+<img src="https://img.shields.io/badge/E-mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💻 “Transformando ideias em experiências digitais.”
+### 💻 Building Desktop & Web Applications
 
 </div>
