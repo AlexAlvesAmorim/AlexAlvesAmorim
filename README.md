@@ -67,7 +67,7 @@ Dashboard completo de analytics desenvolvido para uma rede de delivery fictícia
 
 Projeto focado em demonstrar organização de código, separação de responsabilidades e boas práticas de desenvolvimento front-end.
 
-🔗 **[Ver repositório](https://github.com/AlexAlvesAmorim/99Food-analytics-dashboard)** *(substitua pelo link real)*
+🔗 **[Ver repositório](https://github.com/AlexAlvesAmorim/99Food-analytics-dashboard)** *(ainda em construção)*
 
 ---
 
