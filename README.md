@@ -2,7 +2,7 @@
 
 <p align="left">
   <strong>Front-End Developer</strong> • React • TypeScript • Electron<br>
-  Construindo aplicações web e desktop com foco em arquitetura, performance e experiência do usuário.
+  Apaixonado por construir aplicações web e desktop com arquitetura sólida, código limpo e excelente experiência do usuário.
 </p>
 
 <p align="left">
@@ -13,20 +13,12 @@
 
 ## 🎯 Core Competencies
 
-<tr>
-  <tr>
-    <td>✅ Electron + React + TypeScript</td>
-    <td>✅ Arquitetura de componentes & hooks customizados</td>
-  </tr>
-  <tr>
-    <td>✅ PDF.js e renderização de documentos</td>
-    <td>✅ UI/UX moderna com TailwindCSS</td>
-  </tr>
-  <tr>
-    <td>✅ Aplicações desktop (cross-platform)</td>
-    <td>✅ Background em suporte técnico N3</td>
-  </tr>
-</table>
+- **Arquitetura de Software** — Clean Architecture, Componentização e Hooks Customizados
+- **Desenvolvimento Web & Desktop** — React, TypeScript e Electron
+- **UI/UX Moderna** — Tailwind CSS e design responsivo
+- **Leitor de PDF Avançado** — PDF.js + recursos nativos de impressão
+- **Análise e Dashboards** — Criação de interfaces analíticas complexas
+- **Background em Suporte Técnico N3** — Forte capacidade de resolução de problemas
 
 ---
 
@@ -38,24 +30,44 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ---
 
-## 📌 Projeto em destaque
+## 📌 Projetos em Destaque
 
-**🖥️ ALFA PDF Reader** – Leitor de PDF desktop construído com Electron + React + TypeScript.
+### 🖥️ **ALFA PDF Reader**
+Leitor de PDF desktop avançado construído com **Electron + React + TypeScript**.
 
-**🎯 Features principais:**
+**🚀 Principais funcionalidades:**
+- Rolagem vertical contínua e fluida
+- Suporte a múltiplas abas simultâneas
+- Zoom dinâmico e controles de navegação
+- Impressão nativa (página específica ou documento completo)
+- Detecção automática de impressoras do sistema
 
-- Rolagem vertical contínua  
-- Múltiplas abas simultâneas  
-- Controles de zoom dinâmico  
-- Impressão nativa (com suporte a página específica ou documento inteiro)  
-- Detecção de impressoras do sistema  
+🔗 **[Download da versão estável](https://github.com/AlexAlvesAmorim/AlfaPDF/releases/tag/v1.2.0-Stable)**
 
-🔗 **Download / Release:**  
-[github.com/AlexAlvesAmorim/AlfaPDF/releases/tag/pdfreader](https://github.com/AlexAlvesAmorim/AlfaPDF/releases/tag/v1.2.0-Stable)
+---
+
+### 📊 **99Food Analytics**
+Dashboard completo de analytics desenvolvido para uma rede de delivery fictícia, com aplicação prática de **Clean Architecture**.
+
+**🛠️ Tecnologias e Conceitos Utilizados:**
+- React + TypeScript
+- **Clean Architecture** (Entities, Use Cases, Controllers/Presenters)
+- Context API + Custom Hooks
+- Tailwind CSS para interface moderna e responsiva
+- Estrutura escalável e organizada por camadas
+
+**🎯 Principais funcionalidades:**
+- Dashboard com métricas de receita, pedidos e desempenho
+- Gestão completa de pedidos (listagem, detalhes e alteração de status)
+- Catálogo de produtos
+- Configurações da loja (perfil, operação, notificações e segurança)
+
+Projeto focado em demonstrar organização de código, separação de responsabilidades e boas práticas de desenvolvimento front-end.
+
+🔗 **[Ver repositório](https://github.com/AlexAlvesAmorim/99Food-analytics-dashboard)** *(substitua pelo link real)*
 
 ---
 
@@ -66,4 +78,6 @@
 
 ---
 
-📫 **Open to work** – Front-End, React ou Electron Developer
+📫 **Aberto a oportunidades** — Front-End Developer (React / TypeScript) ou Electron Developer
+
+---
