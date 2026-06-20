@@ -55,7 +55,7 @@
 - Detecção de impressoras do sistema  
 
 🔗 **Download / Release:**  
-[github.com/AlexAlvesAmorim/AlfaPDF/releases/tag/pdfreader](https://github.com/AlexAlvesAmorim/AlfaPDF/releases/tag/pdfreader)
+[github.com/AlexAlvesAmorim/AlfaPDF/releases/tag/pdfreader](https://github.com/AlexAlvesAmorim/AlfaPDF/releases/tag/v1.2.0-Stable)
 
 ---
 
