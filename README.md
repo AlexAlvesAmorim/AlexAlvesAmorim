@@ -1,83 +1,170 @@
 # 👨‍💻 Alex Alves Amorim
 
 <p align="left">
-  <strong>Front-End Developer</strong> • React • TypeScript • Electron<br>
-  Apaixonado por construir aplicações web e desktop com arquitetura sólida, código limpo e excelente experiência do usuário.
+  <strong>Front-End Developer</strong>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AlexAlvesAmorim&color=blue" alt="profile views" />
-</p>
+Desenvolvedor Front-End especializado em **React**, **TypeScript** e **Electron**, com sólida experiência em construção de aplicações web e desktop modernas.
+
+Tenho como foco criar software com arquitetura escalável, componentes reutilizáveis, interfaces de alta qualidade e código limpo, aplicando boas práticas de engenharia desde a estrutura do projeto até a experiência do usuário.
 
 ---
 
-## 🎯 Core Competencies
+## 🚀 Core Skills
 
-- **Arquitetura de Software** — Clean Architecture, Componentização e Hooks Customizados
-- **Desenvolvimento Web & Desktop** — React, TypeScript e Electron
-- **UI/UX Moderna** — Tailwind CSS e design responsivo
-- **Leitor de PDF Avançado** — PDF.js + recursos nativos de impressão
-- **Análise e Dashboards** — Criação de interfaces analíticas complexas
-- **Background em Suporte Técnico N3** — Forte capacidade de resolução de problemas
-
----
-
-## 🛠️ Tech Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- Arquitetura Front-End
+- Clean Architecture
+- Componentização
+- Custom Hooks
+- TypeScript
+- React
+- Electron
+- Tailwind CSS
+- Responsive Design
+- Performance Optimization
+- UI/UX Moderna
 
 ---
 
-## 📌 Projetos em Destaque
+# 🛠 Tech Stack
 
-### 🖥️ **ALFA PDF Reader**
-Leitor de PDF desktop avançado construído com **Electron + React + TypeScript**.
+### Front-End
 
-**🚀 Principais funcionalidades:**
-- Rolagem vertical contínua e fluida
-- Suporte a múltiplas abas simultâneas
-- Zoom dinâmico e controles de navegação
-- Impressão nativa (página específica ou documento completo)
-- Detecção automática de impressoras do sistema
+- React
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+- Vite
 
-🔗 **[Download da versão estável](https://github.com/AlexAlvesAmorim/AlfaPDF/releases/tag/v1.2.0-Stable)**
+### Desktop
 
----
+- Electron
 
-### 📊 **99Food Analytics**
-Dashboard completo de analytics desenvolvido para uma rede de delivery fictícia, com aplicação prática de **Clean Architecture**.
+### Arquitetura
 
-**🛠️ Tecnologias e Conceitos Utilizados:**
-- React + TypeScript
-- **Clean Architecture** (Entities, Use Cases, Controllers/Presenters)
-- Context API + Custom Hooks
-- Tailwind CSS para interface moderna e responsiva
-- Estrutura escalável e organizada por camadas
+- Clean Architecture
+- Feature-based Structure
+- Component Driven Development
+- Custom Hooks
+- Context API
 
-**🎯 Principais funcionalidades:**
-- Dashboard com métricas de receita, pedidos e desempenho
-- Gestão completa de pedidos (listagem, detalhes e alteração de status)
-- Catálogo de produtos
-- Configurações da loja (perfil, operação, notificações e segurança)
+### Ferramentas
 
-Projeto focado em demonstrar organização de código, separação de responsabilidades e boas práticas de desenvolvimento front-end.
-
-🔗 **[Ver repositório](https://github.com/AlexAlvesAmorim/99Food-analytics-dashboard)** *(ainda em construção)*
+- Git
+- GitHub
+- Node.js
+- npm
+- ESLint
 
 ---
 
-## 🌐 Conecte-se
+# 📌 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-a-amorim)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eudevalex)
+## 🚀 My Project Hub
+
+Meu portfólio desenvolvido como uma aplicação moderna em React.
+
+O projeto foi criado para demonstrar organização de código, arquitetura escalável e experiência visual, servindo como central para apresentação dos meus projetos.
+
+### Tecnologias
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Custom Hooks
+- Componentização
+- Arquitetura Modular
+
+### Destaques
+
+- Hub interativo de projetos
+- Componentes reutilizáveis
+- Estrutura escalável
+- Organização por responsabilidades
+- Interface moderna
+- Código totalmente tipado
+
+🔗 https://github.com/AlexAlvesAmorim/EuAlexDev-Hub-Project
 
 ---
 
-📫 **Aberto a oportunidades** — Front-End Developer (React / TypeScript) ou Electron Developer
+## 🖥 ALFA PDF Reader
+
+Aplicação desktop desenvolvida com Electron + React + TypeScript.
+
+Um leitor de PDF moderno com foco em desempenho, organização de código e experiência do usuário.
+
+### Destaques
+
+- Multi Tabs
+- Scroll contínuo
+- Zoom
+- Impressão nativa
+- Gerenciamento de páginas
+- Integração com PDF.js
+- Comunicação segura via Electron IPC
+- Arquitetura modular
+
+🔗 https://github.com/AlexAlvesAmorim/AlfaPDF
 
 ---
+
+## 📊 99Food Analytics
+
+Dashboard administrativo inspirado em plataformas de delivery.
+
+Projeto desenvolvido para aplicar conceitos de arquitetura, separação de responsabilidades e construção de interfaces complexas.
+
+### Tecnologias
+
+- React
+- TypeScript
+- Tailwind CSS
+- Clean Architecture
+- Context API
+- Custom Hooks
+
+### Funcionalidades
+
+- Dashboard Analítico
+- Gestão de Pedidos
+- Gestão de Produtos
+- Configurações
+- Interface Responsiva
+- Componentes Reutilizáveis
+
+🔗 https://github.com/AlexAlvesAmorim/99Food-Analytics
+
+---
+
+# 📈 Atualmente estudando
+
+- Next.js
+- PostgreSQL
+- Prisma ORM
+- Docker
+- Testes automatizados
+
+Sempre buscando evoluir na construção de aplicações modernas, escaláveis e de alta qualidade.
+
+---
+
+# 🌐 Contato
+
+[LinkedIn](https://linkedin.com/in/alex-a-amorim)
+
+[Instagram](https://instagram.com/eudevalex)
+
+---
+
+## 📫 Open to Work
+
+Buscando oportunidades como:
+
+- Front-End Developer
+- React Developer
+- TypeScript Developer
+- Electron Developer
