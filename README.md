@@ -1,30 +1,37 @@
-# 👨‍💻 Alex Alves Amorim  
-**Front-End Developer**
+# 👨‍💻 Alex Alves Amorim
 
-Desenvolvedor Front-End especializado em **React**, **TypeScript** e **Electron**, com foco em construir aplicações web e desktop modernas, escaláveis e de alta qualidade.
+**Full-Stack Developer** | React · TypeScript · Node.js
 
-Busco criar software com arquitetura bem estruturada, componentes reutilizáveis, interfaces intuitivas e código limpo, aplicando boas práticas de engenharia desde a estrutura do projeto até a experiência do usuário.
+Desenvolvedor full-stack com foco em **React**, **TypeScript** e **Node.js**, construindo aplicações web completas — do front-end à API, banco de dados e infraestrutura com Docker.
+
+Tenho experiência real em e-commerce, com arquitetura de 3 camadas (front-end, API, banco de dados), autenticação, painéis administrativos e testes automatizados. Aplico boas práticas de engenharia: código limpo, componentes reutilizáveis, validação de dados e segurança desde a estrutura do projeto até a experiência do usuário.
 
 ---
 
 ## 🚀 Habilidades Principais
 
-### 🛠️ Front-End & Desktop
+### 🛠️ Front-End
 - ⚛️ React / React Hooks / Context API
 - 🔷 TypeScript
 - 🟨 JavaScript (ES6+)
-- 🖥️ Electron
 - 🌐 HTML5, CSS3, Tailwind CSS
 - ⚡ Vite
+
+### 🗄️ Back-End & Banco de Dados
+- 🟢 Node.js · Fastify
+- 🗃️ Prisma ORM · PostgreSQL
+- 📦 Redis
+- 🔌 REST API · Autenticação (JWT + cookies)
 
 ### 🏗️ Arquitetura & Práticas
 - 🧱 Clean Architecture
 - 🧩 Component-Driven Development
 - 📁 Feature-based Structure
 - 🪝 Custom Hooks
-- 🚀 Performance Optimization
-- 🎨 UI/UX Moderna
-- 📱 Responsive Design
+- 🛡️ Validação de dados (Zod) · Sanitização anti-XSS
+- 🧪 Testes automatizados (Vitest)
+- 🐳 Docker & Docker Compose
+- 🎨 UI/UX Moderna · Responsive Design
 
 ### 🛠️ Ferramentas
 - 🔧 Git & GitHub
@@ -36,31 +43,39 @@ Busco criar software com arquitetura bem estruturada, componentes reutilizáveis
 ## 🛠️ Tech Stack
 
 ### 🌐 Front-End
-- ⚛️ React
-- 🔷 TypeScript
-- 🟨 JavaScript (ES6+)
-- 🌐 HTML5, CSS3
-- 🎨 Tailwind CSS
-- ⚡ Vite
+- ⚛️ React · 🔷 TypeScript · 🟨 JavaScript (ES6+)
+- 🎨 Tailwind CSS · ⚡ Vite · 🖥️ Electron
 
-### 🖥️ Desktop
-- 🖥️ Electron
+### 🔌 Back-End
+- 🟢 Node.js · ⚡ Fastify · 🔐 JWT + cookie-based auth
 
-### 🏗️ Arquitetura
-- 🧱 Clean Architecture
-- 📁 Feature-based Structure
-- 🧩 Component-Driven Development
-- 🪝 Custom Hooks
-- 🔄 Context API
+### 🗄️ Banco de Dados & Infra
+- 🐘 PostgreSQL · 🗃️ Prisma ORM · 📦 Redis · 🐳 Docker
 
-### 🛠️ Ferramentas
-- 🔧 Git, GitHub
-- 🟢 Node.js, npm
-- 📏 ESLint
+### 🏗️ Arquitetura & Qualidade
+- 🧱 Clean Architecture · 📁 Feature-based Structure · 🧩 Component-Driven
+- 🪝 Custom Hooks · 🛡️ Zod validation · 🧪 Vitest · 📏 ESLint
 
 ---
 
 ## 📌 Projetos em Destaque
+
+### 🛍️ Fabulosa Modas — E-commerce Full-Stack
+E-commerce completo com painel administrativo, construído com arquitetura em 3 camadas (front-end + API + banco de dados) rodando em Docker.
+
+**Tecnologias:** React, TypeScript, Node.js (Fastify), Prisma, PostgreSQL, Redis, Docker, Zod, Vitest.
+
+**Destaques:**
+- 🔐 Painel administrativo com autenticação (login e logout protegidos por rota)
+- 🛒 CRUD completo de produtos e categorias (nome, tamanho, cor, preço, descrição)
+- 📊 Analytics de eventos (visualizações, cliques e redirecionamentos por produto)
+- 🛡️ Segurança: sanitização anti-XSS, validação com Zod e proteção de rotas por permissão
+- 🧪 Testes automatizados: 45 testes no back-end + 9 no front-end
+- 🐳 Infraestrutura com Docker Compose (API, web, PostgreSQL e Redis)
+
+🔗 [GitHub – Fabulosa Modas](https://github.com/AlexAlvesAmorim/ProjetoFabuloja-fork)
+
+---
 
 ### 🚀 My Project Hub
 Portfólio moderno desenvolvido em React + TypeScript para centralizar e apresentar meus projetos.
@@ -113,10 +128,9 @@ Dashboard administrativo inspirado em plataformas de delivery.
 ## 📈 Atualmente estudando
 
 - ⚛️ Next.js
-- 🐘 PostgreSQL
-- 🗃️ Prisma ORM
-- 🐳 Docker
-- 🧪 Testes automatizados
+- 🧪 Testes avançados (E2E com Playwright)
+- 🚀 Deploy e CI/CD (GitHub Actions)
+- 💳 Integrações de pagamento e checkout
 
 Sempre buscando evoluir na construção de aplicações modernas, escaláveis e de alta qualidade.
 
@@ -126,6 +140,7 @@ Sempre buscando evoluir na construção de aplicações modernas, escaláveis e 
 
 - 💼 [LinkedIn](https://linkedin.com/in/alex-a-amorim)
 - 📸 [Instagram](https://instagram.com/eudevalex)
+- 🐙 [GitHub](https://github.com/AlexAlvesAmorim)
 
 ---
 
@@ -133,7 +148,7 @@ Sempre buscando evoluir na construção de aplicações modernas, escaláveis e 
 
 Buscando oportunidades como:
 
-- 🎯 Front-End Developer
+- 🎯 Full-Stack Developer
 - ⚛️ React Developer
 - 🔷 TypeScript Developer
-- 🖥️ Electron Developer
+- 🟢 Node.js Developer
