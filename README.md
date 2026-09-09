@@ -1,154 +1,71 @@
 # 👨‍💻 Alex Alves Amorim
 
-**Full-Stack Developer** | React · TypeScript · Node.js
+**Full-Stack Developer** | React · TypeScript · Node.js · Electron
 
-Desenvolvedor full-stack com foco em **React**, **TypeScript** e **Node.js**, construindo aplicações web completas — do front-end à API, banco de dados e infraestrutura com Docker.
+[![CV Maker CI](https://github.com/AlexAlvesAmorim/alfa-cv-maker/actions/workflows/ci.yml/badge.svg)](https://github.com/AlexAlvesAmorim/alfa-cv-maker/actions)
+[![Fabuloja CI](https://github.com/AlexAlvesAmorim/ProjetoFabuloja-fork/actions/workflows/ci.yml/badge.svg)](https://github.com/AlexAlvesAmorim/ProjetoFabuloja-fork/actions)
+[![ALFA PDF release](https://img.shields.io/github/v/release/AlexAlvesAmorim/AlfaPDF?label=ALFA%20PDF)](https://github.com/AlexAlvesAmorim/AlfaPDF/releases/latest)
+[![Portfolio](https://img.shields.io/badge/portfolio-online-brightgreen)](https://eu-alex-dev-hub-project.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-0a66c2?logo=linkedin)](https://linkedin.com/in/alex-a-amorim)
 
-Tenho experiência real em e-commerce, com arquitetura de 3 camadas (front-end, API, banco de dados), autenticação, painéis administrativos e testes automatizados. Aplico boas práticas de engenharia: código limpo, componentes reutilizáveis, validação de dados e segurança desde a estrutura do projeto até a experiência do usuário.
-
----
-
-## 🚀 Habilidades Principais
-
-### 🛠️ Front-End
-- ⚛️ React / React Hooks / Context API
-- 🔷 TypeScript
-- 🟨 JavaScript (ES6+)
-- 🌐 HTML5, CSS3, Tailwind CSS
-- ⚡ Vite
-
-### 🗄️ Back-End & Banco de Dados
-- 🟢 Node.js · Fastify
-- 🗃️ Prisma ORM · PostgreSQL
-- 📦 Redis
-- 🔌 REST API · Autenticação (JWT + cookies)
-
-### 🏗️ Arquitetura & Práticas
-- 🧱 Clean Architecture
-- 🧩 Component-Driven Development
-- 📁 Feature-based Structure
-- 🪝 Custom Hooks
-- 🛡️ Validação de dados (Zod) · Sanitização anti-XSS
-- 🧪 Testes automatizados (Vitest)
-- 🐳 Docker & Docker Compose
-- 🎨 UI/UX Moderna · Responsive Design
-
-### 🛠️ Ferramentas
-- 🔧 Git & GitHub
-- 🟢 Node.js & npm
-- 📏 ESLint
+Desenvolvedor full-stack construindo **produtos reais de ponta a ponta** — do front em React à API em Node.js, banco de dados e Docker. Certificado **CS50x (Harvard, 2026)**, com base de 15 anos em suporte técnico N3 que virou diferencial em debug, performance e visão de usuário. Compartilho a jornada no canal **[@DevdeFavela](https://www.youtube.com/@DevdeFavela)**.
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub em números
 
-### 🌐 Front-End
-- ⚛️ React · 🔷 TypeScript · 🟨 JavaScript (ES6+)
-- 🎨 Tailwind CSS · ⚡ Vite · 🖥️ Electron
-
-### 🔌 Back-End
-- 🟢 Node.js · ⚡ Fastify · 🔐 JWT + cookie-based auth
-
-### 🗄️ Banco de Dados & Infra
-- 🐘 PostgreSQL · 🗃️ Prisma ORM · 📦 Redis · 🐳 Docker
-
-### 🏗️ Arquitetura & Qualidade
-- 🧱 Clean Architecture · 📁 Feature-based Structure · 🧩 Component-Driven
-- 🪝 Custom Hooks · 🛡️ Zod validation · 🧪 Vitest · 📏 ESLint
+![Stats](https://github-readme-stats.vercel.app/api?username=AlexAlvesAmorim&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAlvesAmorim&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📌 Projetos em Destaque
+## 🛠️ Stack
 
-### 🛍️ Fabulosa Modas — E-commerce Full-Stack
-E-commerce completo com painel administrativo, construído com arquitetura em 3 camadas (front-end + API + banco de dados) rodando em Docker.
-
-**Tecnologias:** React, TypeScript, Node.js (Fastify), Prisma, PostgreSQL, Redis, Docker, Zod, Vitest.
-
-**Destaques:**
-- 🔐 Painel administrativo com autenticação (login e logout protegidos por rota)
-- 🛒 CRUD completo de produtos e categorias (nome, tamanho, cor, preço, descrição)
-- 📊 Analytics de eventos (visualizações, cliques e redirecionamentos por produto)
-- 🛡️ Segurança: sanitização anti-XSS, validação com Zod e proteção de rotas por permissão
-- 🧪 Testes automatizados: 45 testes no back-end + 9 no front-end
-- 🐳 Infraestrutura com Docker Compose (API, web, PostgreSQL e Redis)
-
-🔗 [GitHub – Fabulosa Modas](https://github.com/AlexAlvesAmorim/ProjetoFabuloja-fork)
+| Área | Tecnologias |
+|---|---|
+| Front-End | React 18/19 · TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS · Vite · React Router · Electron |
+| Back-End | Node.js · Fastify · REST API · JWT + cookies · Zod |
+| Dados & Infra | PostgreSQL · Prisma ORM · Redis · Docker & Compose |
+| Qualidade | Vitest · Testing Library · Playwright (e2e) · ESLint · Prettier · Husky · GitHub Actions |
+| Práticas | Clean Code · Component-Driven · Feature-based Structure · Custom Hooks · Acessibilidade (ARIA, WCAG) |
 
 ---
 
-### 🚀 My Project Hub
-Portfólio moderno desenvolvido em React + TypeScript para centralizar e apresentar meus projetos.
+## 📌 Projetos em destaque
 
-**Tecnologias:** React, TypeScript, Vite, Tailwind CSS, Custom Hooks, Componentização, Arquitetura Modular.
+### 🖥️ [ALFA PDF Reader](https://github.com/AlexAlvesAmorim/AlfaPDF) — [⬇️ Baixar](https://github.com/AlexAlvesAmorim/AlfaPDF/releases/latest)
+Leitor PDF desktop profissional para Windows (Electron 43 + React + TypeScript). Instalador `.exe`, multi-abas, PDFs com senha, impressão avançada validada em hardware real e **auto-update silencioso** — 10 releases publicadas (v2.1.6), typecheck + lint 100% verdes.
 
-**Destaques:**
-- 🎯 Hub interativo de projetos
-- 🧩 Componentes reutilizáveis
-- 🏗️ Estrutura escalável e modular
-- 🎨 Interface moderna e responsiva
-- 🔷 Código totalmente tipado
+### 💬 [Alfa CV Maker](https://github.com/AlexAlvesAmorim/alfa-cv-maker) — ![CI](https://github.com/AlexAlvesAmorim/alfa-cv-maker/actions/workflows/ci.yml/badge.svg)
+Assistente conversacional que monta currículos em **PDF e DOCX** (7 templates) com sugestões contextuais, foto 3x4 com IA 100% no navegador e **análise ATS de vagas (Alfa Match)** — tudo client-side, sem cadastro. 29 testes Vitest, CI verde.
 
-🔗 [GitHub – My Project Hub](https://github.com/AlexAlvesAmorim/EuAlexDev-Hub-Project)
+### 🛍️ [Fabulosa E-Commerce](https://github.com/AlexAlvesAmorim/ProjetoFabuloja-fork) — ![CI](https://github.com/AlexAlvesAmorim/ProjetoFabuloja-fork/actions/workflows/ci.yml/badge.svg)
+Loja full-stack em arquitetura de 3 camadas (SPA + API Fastify + Prisma/Postgres/Redis) com admin autenticado, CRUD de produtos, analytics de eventos, segurança (Zod, anti-XSS, helmet, rate-limit) e Docker Compose. Suítes Vitest no front e na API + e2e Playwright, CI verde.
 
----
+### 📊 [99Food Analytics](https://github.com/AlexAlvesAmorim/99Food-Analytics) — [🎬 Demo](https://youtu.be/e3zGgwpHqeU)
+**CS50x Harvard Final Project.** Dashboard SaaS para delivery com KPIs calculados em `useMemo` (receita, ticket médio, melhor dia/pagamento), filtros, modal acessível e arquitetura pronta para API REST. README file-by-file para banca.
 
-### 🖥️ ALFA PDF Reader
-Aplicação desktop desenvolvida com Electron + React + TypeScript.
-
-**Destaques:**
-- 📑 Multi Tabs
-- 📜 Scroll contínuo
-- 🔍 Zoom e impressão nativa
-- 📄 Gerenciamento de páginas
-- 📦 Integração com PDF.js
-- 🔐 Comunicação segura via Electron IPC
-- 🏗️ Arquitetura modular
-
-🔗 [GitHub – ALFA PDF Reader](https://github.com/AlexAlvesAmorim/AlfaPDF)
+### 🚀 [EuAlexDev Hub](https://github.com/AlexAlvesAmorim/EuAlexDev-Hub-Project) — [🌐 Online](https://eu-alex-dev-hub-project.vercel.app)
+Portfólio como produto: carrossel 3D autoral em CSS puro + `requestAnimationFrame`, 100% navegável por teclado, `prefers-reduced-motion` e case studies de cada projeto.
 
 ---
 
-### 📊 99Food Analytics
-Dashboard administrativo inspirado em plataformas de delivery.
+## 🎓 Certificação
 
-**Tecnologias:** React, TypeScript, Tailwind CSS, Clean Architecture, Context API, Custom Hooks.
+- **CS50x — Introduction to Computer Science, Harvard University (2026)** — Final Project: 99Food Analytics com vídeo demo e banca
 
-**Funcionalidades:**
-- 📈 Dashboard analítico
-- 🛒 Gestão de pedidos e produtos
-- ⚙️ Configurações
-- 📱 Interface responsiva
-- 🧩 Componentes reutilizáveis
+## 📈 Aplicando agora
 
-🔗 [GitHub – 99Food Analytics](https://github.com/AlexAlvesAmorim/99Food-Analytics)
-
----
-
-## 📈 Atualmente estudando
-
-- ⚛️ Next.js
-- 🧪 Testes avançados (E2E com Playwright)
-- 🚀 Deploy e CI/CD (GitHub Actions)
-- 💳 Integrações de pagamento e checkout
-
-Sempre buscando evoluir na construção de aplicações modernas, escaláveis e de alta qualidade.
-
----
+- ⚛️ Next.js · 💳 Checkout e pagamentos · 📊 Cobertura de testes publicada · 🚀 Deploys públicos de API + banco
 
 ## 🌐 Contato
 
 - 💼 [LinkedIn](https://linkedin.com/in/alex-a-amorim)
+- 🎬 [YouTube @DevdeFavela](https://www.youtube.com/@DevdeFavela)
 - 📸 [Instagram](https://instagram.com/eudevalex)
+- 🌐 [Portfólio](https://eu-alex-dev-hub-project.vercel.app)
 - 🐙 [GitHub](https://github.com/AlexAlvesAmorim)
-
----
 
 ## 📫 Open to Work
 
-Buscando oportunidades como:
-
-- 🎯 Full-Stack Developer
-- ⚛️ React Developer
-- 🔷 TypeScript Developer
-- 🟢 Node.js Developer
+**Full-Stack · React · TypeScript · Node.js** — presencial/híbrido no RJ ou remoto.
