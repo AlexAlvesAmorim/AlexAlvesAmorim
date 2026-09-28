@@ -1,6 +1,6 @@
-# 👨‍💻 Alex Alves Amorim
+# Fala, sou o Alex 👋 | Dev de Favela
 
-**Full-Stack Developer** | React · TypeScript · Node.js · Electron
+**Full-Stack** | React · TypeScript · Node.js · Electron | Jacarepaguá — RJ
 
 [![CV Maker CI](https://github.com/AlexAlvesAmorim/alfa-cv-maker/actions/workflows/ci.yml/badge.svg)](https://github.com/AlexAlvesAmorim/alfa-cv-maker/actions)
 [![Fabuloja CI](https://github.com/AlexAlvesAmorim/ProjetoFabuloja-fork/actions/workflows/ci.yml/badge.svg)](https://github.com/AlexAlvesAmorim/ProjetoFabuloja-fork/actions)
@@ -8,7 +8,9 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-online-brightgreen)](https://eu-alex-dev-hub-project.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-0a66c2?logo=linkedin)](https://linkedin.com/in/alex-a-amorim)
 
-Desenvolvedor full-stack construindo **produtos reais de ponta a ponta** — do front em React à API em Node.js, banco de dados e Docker. Certificado **CS50x (Harvard, 2026)**, com base de 15 anos em suporte técnico N3 que virou diferencial em debug, performance e visão de usuário. Compartilho a jornada no canal **[@DevdeFavela](https://www.youtube.com/@DevdeFavela)**.
+Sou o **Alex Alves Amorim**, de Jacarepaguá — RJ. Passei 21 anos no suporte técnico (do N1 ao N3) ouvindo gente frustrada com sistema que deveria ajudar. Um dia cansou. Resolvi ser quem faz a interface que não atrapalha.
+
+Hoje faço Full-Stack de verdade: front em React, API em Node, banco e Docker. Meu xodó é o ALFA PDF com 200+ users, já vendi loja B2B (Fabulosa), fechei o **CS50x de Harvard (2026)**. Compartilho a jornada sem enrolação no canal **[@DevdeFavela](https://www.youtube.com/@DevdeFavela)**.
 
 ---
 
@@ -34,19 +36,19 @@ Desenvolvedor full-stack construindo **produtos reais de ponta a ponta** — do 
 ## 📌 Projetos em destaque
 
 ### 🖥️ [ALFA PDF Reader](https://github.com/AlexAlvesAmorim/AlfaPDF) — [⬇️ Baixar](https://github.com/AlexAlvesAmorim/AlfaPDF/releases/latest)
-Leitor PDF desktop profissional para Windows (Electron 43 + React + TypeScript). Instalador `.exe`, multi-abas, PDFs com senha, impressão avançada validada em hardware real e **auto-update silencioso** — 10 releases publicadas (v2.1.6), typecheck + lint 100% verdes.
+Meu xodó. Leitor PDF pra Windows (Electron 43 + React + TS). Instalador `.exe`, multi-abas, PDF com senha, impressão validada em hardware real — já passei madrugada numa Epson L3150 pra fazer a silenciosa funcionar. Hoje é leve (~100MB), atualiza sozinho, 10 releases (v2.1.6).
 
 ### 💬 [Alfa CV Maker](https://github.com/AlexAlvesAmorim/alfa-cv-maker) — ![CI](https://github.com/AlexAlvesAmorim/alfa-cv-maker/actions/workflows/ci.yml/badge.svg)
-Assistente conversacional que monta currículos em **PDF e DOCX** (7 templates) com sugestões contextuais, foto 3x4 com IA 100% no navegador e **análise ATS de vagas (Alfa Match)** — tudo client-side, sem cadastro. 29 testes Vitest, CI verde.
+Monta currículo conversando com chat: **PDF e DOCX** (7 templates), foto 3x4 com IA 100% no navegador, **Alfa Match pra vaga (ATS)** — tudo sem cadastro, sem servidor. Porque quem precisa de trampo não tem que pagar pra fazer currículo. 29 testes Vitest, CI verde.
 
 ### 🛍️ [Fabulosa E-Commerce](https://github.com/AlexAlvesAmorim/ProjetoFabuloja-fork) — ![CI](https://github.com/AlexAlvesAmorim/ProjetoFabuloja-fork/actions/workflows/ci.yml/badge.svg)
-Loja full-stack em arquitetura de 3 camadas (SPA + API Fastify + Prisma/Postgres/Redis) com admin autenticado, CRUD de produtos, analytics de eventos, segurança (Zod, anti-XSS, helmet, rate-limit) e Docker Compose. Suítes Vitest no front e na API + e2e Playwright, CI verde.
+Primeira loja que vendi. Full-stack de verdade (SPA + API Fastify + Prisma/Postgres/Redis) com admin, CRUD, upload com sharp, analytics de vitrine e Docker Compose. Segurança com Zod, helmet e rate-limit. Vitest no front e na API + Playwright e2e.
 
 ### 📊 [99Food Analytics](https://github.com/AlexAlvesAmorim/99Food-Analytics) — [🎬 Demo](https://youtu.be/e3zGgwpHqeU)
-**CS50x Harvard Final Project.** Dashboard SaaS para delivery com KPIs calculados em `useMemo` (receita, ticket médio, melhor dia/pagamento), filtros, modal acessível e arquitetura pronta para API REST. README file-by-file para banca.
+Meu final project do **CS50x Harvard**. Dashboard pra delivery que transforma planilha bagunçada em decisão — fiz boa parte sem internet, no seco. Receita, ticket médio, melhor dia e pagamento, tudo em `useMemo`, sem lib de gráfico.
 
 ### 🚀 [EuAlexDev Hub](https://github.com/AlexAlvesAmorim/EuAlexDev-Hub-Project) — [🌐 Online](https://eu-alex-dev-hub-project.vercel.app)
-Portfólio como produto: carrossel 3D autoral em CSS puro + `requestAnimationFrame`, 100% navegável por teclado, `prefers-reduced-motion` e case studies de cada projeto.
+Minha vitrine. Não é template: carrossel 3D fiz na mão, CSS puro + `requestAnimationFrame`, sem lib. Cada card tem problema real, perrengue e o que foi entregue. Teclado 100%, `prefers-reduced-motion`, cases por rota.
 
 ---
 
@@ -69,3 +71,7 @@ Portfólio como produto: carrossel 3D autoral em CSS puro + `requestAnimationFra
 ## 📫 Open to Work
 
 **Full-Stack · React · TypeScript · Node.js** — presencial/híbrido no RJ ou remoto.
+
+Me chama no [LinkedIn](https://linkedin.com/in/alex-a-amorim) — respondo mais rápido por lá. Se algo quebrou, abre issue que eu corrijo. Tamo junto.
+
+> Feito com ♥ noites sem dormir e café.
